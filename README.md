@@ -64,3 +64,8 @@ https://colorpalettes.net/
 https://designmodo.com/
 
 https://dribbble.com/
+
+
+#### Education
+
+https://ed.ted.com/
