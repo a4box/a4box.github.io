@@ -41,6 +41,8 @@ https://qiita.com/
 
 https://www.quora.com/
 
+https://thewebtier.com/
+
 #### Machine Learning
 
 https://developers.google.com/machine-learning/crash-course
@@ -48,6 +50,7 @@ https://developers.google.com/machine-learning/crash-course
 https://www.tensorflow.org/
 
 https://pytorch.org/
+
 
 
 #### Design
